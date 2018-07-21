@@ -9,11 +9,11 @@ public class CircleRing {
     public static void main(String[] args) throws Exception {
 
         // 1. Make a new Robot
-
-
+    	Robot Andy  = new Robot();
+    	
        //  2. Set your robot’s position to x=150 and y=200
-
-        // 3. Put the robot's pen down
+    
+    	// 3. Put the robot's pen down
 
         // 4. Set the robot’s speed to 10
 
