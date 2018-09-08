@@ -28,7 +28,7 @@ public static void main(String[] args) {
 	}
 	// 3. If it is greater than or equal to 3 AND less than or equal to 5, tell them
 	// they're a Code Ninja
-	if(c >= 3) {
+	if(c >= 3 && c <= 5 ){
 		JOptionPane.showMessageDialog(null, "You're a Code Ninja!");
 	}
 	
