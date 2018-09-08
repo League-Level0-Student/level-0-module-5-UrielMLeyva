@@ -20,7 +20,7 @@ public class CircleRing {
     	r2d2.setRandomPenColor();
     	
         // 4. Set the robot’s speed to 10
-    	r2d2.setSpeed(10);
+    	r2d2.setSpeed(100);
     	
         // 5. Do everything below here 360 times (use i as the counter)
     		for (int i = 0; i < 360; i++) {

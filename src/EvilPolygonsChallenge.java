@@ -37,14 +37,14 @@ public class EvilPolygonsChallenge {
 		//5. Use the robot to draw the number of polygons the user requested.
 		int polygon = Integer.parseInt(p);
 		r2d2.penDown();
-			r2d2.setX(150);
+			r2d2.setX(250);
 			r2d2.setY(300);
 		for (int i = 0; i < polygon; i++) {
 			for (int j = 0; j < 8; j++) {
 				r2d2.move(50);
-				r2d2.turn(360/15);
+				r2d2.turn(100/2);
 			}
-			r2d2.turn(60);
+			r2d2.turn(100);
 		}
 		//6. Make it so your shapes do not overlap
 		
