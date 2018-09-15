@@ -41,14 +41,16 @@ public static void main(String[] args) {
 		//int a = i-2003;
 		//System.out.println("In "+i+" I was "+a+" years old");
 	//}
-	System.out.println();
-	for (int i = 0; i < 3; i++) {
-		for (int j = 0; j < 3; j++) {
+	
+	
+	//System.out.println();
+	//for (int i = 0; i < 3; i++) {
+		//for (int j = 0; j < 3; j++) {
 			
-		System.out.println(i +" "+ j);	
-		}
+		//System.out.println(i +" "+ j);	
+		//}
 		
-	}
+	//}
 
 
 
