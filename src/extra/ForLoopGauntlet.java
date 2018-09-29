@@ -52,7 +52,14 @@ public static void main(String[] args) {
 		
 	//}
 
-
+	System.out.println();
+	for (int i = 1; i < 3; i++) {
+		for (int j = 3; j < 6; j++) {
+			for (int l = 6; l < 10; l++) {
+				System.out.println(i +" "+ j +" "+ l);
+			}
+		}
+	}
 
 
 
